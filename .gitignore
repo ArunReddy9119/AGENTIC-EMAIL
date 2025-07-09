@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# SQLite database files
+*.db
+
+# Environment variables
+.env
+
+# VSCode and other editor settings
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store 
